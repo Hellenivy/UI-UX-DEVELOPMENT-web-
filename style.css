@@ -1,76 +1,68 @@
 body{
 background-color: #ccc;
 color: #222;
-font-family: Aerial;
-}
-.respo{
-color: maroon;
-text-align: center;
-font-style: 1.0vw;
+font-family: arial;
 }
 .cont{
 max-width: 1000px;
-max-height: 200px;
-margin:0 auto;
-background-color: white;
+min-height: 200px;
+margin: 0 auto;
+background-color: #fff;
 }
 .cont h2{
-font-size: 10vw;
+font-size: 5vw;
+margin: 0;
+padding: 0;
 }
 .my-panel{
 width: 33.33%;
 float: left;
-overflow: right;
 }
+
 .one{
-background-color: cyan;
+background-color: yellow;
 min-height: 100px;
-padding: 20px;
-display: flex 1;
-float: right;
-font-style: 1.0vw;
+padding: 1.66%;
 }
 .two{
-background-color: pink;
+background-color:pink;
 min-height: 100px;
-padding: 20px;
-font-style: 1.0vw;
+padding: 1.66%;
 }
 .three{
-background-color: purple;
+background-color: red;
 min-height: 100px;
-padding: 20px;
-font-style: 1.0vw;
+padding: 1.66%;
 }
 .four{
-background-color: orange;
+background-color: green;
 min-height: 100px;
-padding: 20px;
-font-style: 1.0vw;
+padding: 1.66%;
+}
+.four image{
+height: 300px;
+float: right;
+
 }
 .five{
-background-color: hotpink;
+background-color: blue;
 min-height: 100px;
-/*padding: 20px;*/
-padding: 2.5px;
-font-style: 1.0vw;
+padding: 2.5%;
 }
 .six{
-background-color:maroon;
+background-color: cyan;
 min-height: 100px;
-/*padding: 20px;*/
 padding: 2.5%;
-font-style: 1.0vw;
 }
 .seven{
-background-color: grey;
+background-color: purple;
 min-height: 100px;
-padding: 20px;
-font-style: 1.0;
+padding: 2.5%;
 }
 .eight{
-background-color:cyan;
+background-color: wheat;
 min-height: 100px;
-padding: 20px;
-font-style: 1.0vw;
+padding: 2.5%;
+}
+
 }
